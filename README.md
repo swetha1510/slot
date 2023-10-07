@@ -123,8 +123,8 @@ c
 ```
 
 ## OUTPUT
+![image](https://github.com/swetha1510/slot/assets/120623583/f2c3c42a-6000-45ec-a36a-2ad5cd122a10)
 
-![Screenshot 2023-10-07 084908](https://github.com/swetha1510/slot/assets/120623583/a103e1e2-8f55-473e-94f4-43aa95ba2d5a)
 
 ## HTML VALIDATOR
 
